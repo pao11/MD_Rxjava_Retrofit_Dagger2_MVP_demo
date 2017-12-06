@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">主流框架学习Demo</string>
+
+    <string name="detail_bottom_share">分享</string>
+    <string name="detail_bottom_like">点赞</string>
+    <string name="detail_bottom_commit">评论</string>
+    <string name="comment_expand">收起</string>
+
+    <string name="actionbar_webview_share">分享到</string>
+    <string name="actionbar_webview_cope">复制链接</string>
+    <string name="actionbar_webview_open">打开链接</string>
+    <string name="action_share">分享</string>
+
+    <string name="about_addr">https://github.com/pao11/MD_Rxjava_Retrofit_Dagger2_MVP_demo</string>//项目地址
+    <string name="about_author">作者:泡泡</string>
+    <string name="github_issues">您好，此项目是基于Material Design + Rxjava + Retrofit + dagger2 + MVP构架的demo学习项目哦 ~/n如果喜欢点击下面链接下载学习，让我们共同成长！</string>
+</resources>
